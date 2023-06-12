@@ -10,7 +10,7 @@ There are extensions for Visual Studio Code that let you connect to SQL database
 
 ## First time setup
 
-Ensure that docker is running on your machine by using `docker -v`.
+Ensure that docker is running on your machine by using `docker ps`.
 From command line, in this directory run the startup script appropriate for your shell. (Either `startup.bat` or `startup.sh`; Powershell & `startup.bat` recommended on Windows as Git Bash will not run some of the commands).
 
 ## Connect to the database
